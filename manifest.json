@@ -1,0 +1,11 @@
+{
+  "name": "Star King",
+  "short_name": "Star King",
+  "description": "Star King working quiz gate build.",
+  "start_url": "./?workingquiz=1",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#071018",
+  "theme_color": "#071018"
+}
